@@ -8,4 +8,7 @@ It was created using Microsoft Azure Platform and utilizes the following technol
 1.QnA Maker Cognitive AI Service <br>
 2.Storage Account <br>
 3.Knowledge Base <br>
-4.Web App Bot <br>
+
+
+Proof of Concept (Youtube Video) <br>
+https://youtu.be/9aOzS-6Qp2Q    <br>
